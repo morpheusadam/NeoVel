@@ -4597,20 +4597,22 @@
         },
         {
             "name": "nwidart/laravel-modules",
-            "version": "v11.1.0",
+            "version": "v11.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nWidart/laravel-modules.git",
-                "reference": "2ae13812f055a85d7063e90366884cd327877821"
+                "reference": "bebe5b4676cf22d891c1863e9aa2688f34ddaa9f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nWidart/laravel-modules/zipball/2ae13812f055a85d7063e90366884cd327877821",
-                "reference": "2ae13812f055a85d7063e90366884cd327877821",
+                "url": "https://api.github.com/repos/nWidart/laravel-modules/zipball/bebe5b4676cf22d891c1863e9aa2688f34ddaa9f",
+                "reference": "bebe5b4676cf22d891c1863e9aa2688f34ddaa9f",
                 "shasum": ""
             },
             "require": {
+                "ext-dom": "*",
                 "ext-json": "*",
+                "ext-simplexml": "*",
                 "php": ">=8.2",
                 "wikimedia/composer-merge-plugin": "^2.1"
             },
@@ -4668,7 +4670,7 @@
             ],
             "support": {
                 "issues": "https://github.com/nWidart/laravel-modules/issues",
-                "source": "https://github.com/nWidart/laravel-modules/tree/v11.1.0"
+                "source": "https://github.com/nWidart/laravel-modules/tree/v11.1.6"
             },
             "funding": [
                 {
@@ -4680,7 +4682,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-09-13T19:24:08+00:00"
+            "time": "2024-11-16T20:27:06+00:00"
         },
         {
             "name": "openspout/openspout",
